@@ -1,6 +1,6 @@
 {
   "name": "starIOPrintSDK",
-  "version": "3.9.0",
+  "version": "3.10.1",
   "summary": "Star Micronics iOS Print SDK",
   "description": "                    This software is StarIO for iOS.\n                    StarIO is a high level programming tool that simplifies the development\n                    and creation of software for Star printers. \n                    This SDK support iOS from 4.3 to 7.0.\n                    Please refer to document in zip file.\n",
   "homepage": "http://www.starmicronics.com/support/sdkdocumentation.aspx",
@@ -23,8 +23,8 @@
     "ExternalAccessory"
   ],
   "libraries": "z",
-  "preserve_paths": "StarIO_iOS_SDK_V390/Distributables/*.framework",
-  "public_header_files": "StarIO_iOS_SDK_V390/Distributables/StarIO.framework/**/*.h",
-  "vendored_frameworks": "StarIO_iOS_SDK_V390/Distributables/StarIO.framework",
+  "preserve_paths": "StarIO_iOS_SDK_V3_10_1/Distributables/*.framework",
+  "public_header_files": "StarIO_iOS_SDK_V3_10_1/Distributables/StarIO.framework/**/*.h",
+  "vendored_frameworks": "StarIO_iOS_SDK_V3_10_1/Distributables/StarIO.framework",
   "requires_arc": false
 }
